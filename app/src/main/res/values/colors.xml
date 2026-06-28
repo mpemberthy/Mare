@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="energia_alta">#C8CFA0</color>
+    <color name="energia_media">#FCDC94</color>
+    <color name="energia_baja">#EF9C66</color>
+    <color name="primario">#78ABA8</color>
+    <color name="secundario">#D9D9D9</color>
+    <color name="gris_primario">#4A5565</color>
+    <color name="gris_secundario">#364153</color>
+    <color name="gris_terciario">#6A7282</color>
+    <color name="gris_claro_primario">#D1D5DC</color>
+    <color name="gris_claro_secundario">#F3F4F6</color>
+    <color name="rojo">#FB2C36</color>
+    <color name="negro">#FF000000</color>
+    <color name="blanco">#FFFFFFFF</color>
+</resources>
